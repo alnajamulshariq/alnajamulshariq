@@ -70,7 +70,7 @@ Coming soon on [Hashnode](https://hashnode.com/) and [Dev.to](https://dev.to/)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alnajamulshariq&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=alnajamulshariq&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
