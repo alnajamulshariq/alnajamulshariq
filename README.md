@@ -38,6 +38,31 @@
 
 ---
 
+### 📁 Projects
+
+- 🎯 **E-Book Store** – Book buying, renting, audio books, weekly article contests  
+- 💉 **COVID-19 Vaccination System** – Laravel project with admin/user panel  
+- 🏫 **Symphony Institute App** – Created with Angular + ASP.NET Core  
+- 🛍️ **Mujarrat Al-Nisa** – Online shop for ladies’ clothing (In progress)
+
+---
+
+### 🏅 Achievements
+
+- 🏆 Top Student at **Aptech Metro Star Gate**
+- 🧠 Completed **CPISM** & **DISM** with distinction
+- 👨‍💻 3+ years hands-on experience with **Angular** and modern web tech
+- 🏅 **Aptech Project of the Month February 2025**
+
+---
+
+### 📚 Blog / Articles
+
+> *“Knowledge grows when shared.”*  
+Coming soon on [Hashnode](https://hashnode.com/) and [Dev.to](https://dev.to/)
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -45,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alnajamulshariq&theme=tokyonight" alt="alnajamulshariq streak"/>
+  <img src="https://streak-stats.demolab.com?user=alnajamulshariq&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
