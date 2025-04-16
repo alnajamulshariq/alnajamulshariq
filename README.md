@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Al-Najam Ul Shariq</h1>
+<h1 align="center">Hi 👋, I'm Shariq Najam</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Pakistan</h3>
 
 <p align="center">
