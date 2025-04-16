@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **full-stack web development projects**
 - 🌱 Currently learning **Mobile App Development**
 - 💬 Ask me about **Angular, ASP.NET Core, Laravel, PHP, JavaScript**
-- 📫 Reach me at **alnajamulshariq@gmail.com**
+- 📫 Reach me at **mschariquen@gmail.com**
 - ⚡ Fun fact: *Coding + Chai = Perfect Combo ☕*
 
 ---
@@ -27,6 +27,9 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?&style=flat-square&logo=postgresql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat-square&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
@@ -50,7 +53,7 @@
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alnajamulshariq)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alnajamulshariq@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mschariquen@gmail.com)
 
 ---
 
