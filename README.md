@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shariq Najam</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Pakistan</h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alnajamulshariq&label=Profile%20views&color=0e75b6&style=flat" alt="alnajamulshariq" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer+|+Problem+Solver+|+Learner;Always+Exploring+New+Techs...&center=true&width=440&height=45">
 </p>
