@@ -81,7 +81,7 @@ Coming soon on [Hashnode](https://hashnode.com/) and [Dev.to](https://dev.to/)
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alnajamulshariq)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/scharique-najam)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mschariquen@gmail.com)
 
 ---
