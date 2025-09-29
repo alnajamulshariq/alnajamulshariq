@@ -1,13 +1,14 @@
 <!-- Profile Header -->
+
 <h1 align="center">Hi 👋, I'm Shariq Najam</h1>
-<h3 align="center">Full-Stack (MERN + Angular/.NET) Developer from Pakistan</h3>
+<h3 align="center">Full-Stack (MERN • Angular/.NET • Flutter) Developer from Pakistan</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alnajamulshariq&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;MERN+Specialist;Problem+Solver+%7C+Lifelong+Learner;Always+Exploring+New+Techs...&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;MERN+%7C+Angular+%7C+.NET;Flutter+with+Firebase+%26+Supabase;Problem+Solver+%7C+Lifelong+Learner;Exploring+New+Technologies...&center=true&width=650&height=45">
 </p>
 
 <p align="center">
@@ -21,88 +22,97 @@
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=000"/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-- RESTful APIs with Express & Node  
-- JWT/Auth, RBAC, and secure cookie/session strategies  
-- MongoDB schema design (Mongoose), aggregation pipelines & indexing  
-- React 18 + Hooks + Context/Redux, React Router, form libs  
-- Production setups: env configs, logging, validation & CI basics
+* RESTful APIs with Express & Node
+* JWT/Auth, RBAC, and secure cookie/session strategies
+* MongoDB schema design (Mongoose), aggregation pipelines & indexing
+* React 18 + Hooks + Context/Redux, React Router, form libs
+* Production setups: env configs, logging, validation & CI basics
+
+---
+
+## 📱 Mobile + Backend (Flutter, Firebase & Supabase)
+
+* **Flutter (Dart):** Cross-platform apps with clean UI, Provider/Bloc state management
+* **Firebase:** Auth, Firestore/RTDB, Storage, Cloud Functions, Push Notifications (FCM)
+* **Supabase:** Postgres with RLS, Auth (OAuth/Email OTP), Storage, Edge Functions
+* Offline-first apps, caching, repository pattern, environment-based configs
 
 ---
 
 ## 💻 About Me
 
-- 🔭 Currently building **full-stack web apps** (MERN & Angular/.NET)
-- 🌱 Learning **Mobile App Development** (Flutter)
-- 💬 Ask me about **MERN, Angular, ASP.NET Core, Laravel, PHP, JavaScript**
-- 📫 Reach me at **mschariquen@gmail.com**
-- ☕ Fun fact: *Coding + Chai = Perfect Combo*
+* 🔭 Currently building **full-stack apps** (MERN, Angular/.NET, Flutter)
+* 🌱 Learning and integrating **Firebase Functions & Supabase Edge Functions**
+* 💬 Ask me about **MERN, Angular, ASP.NET Core, Laravel, PHP, JavaScript, Flutter**
+* 📫 Reach me at **[mschariquen@gmail.com](mailto:mschariquen@gmail.com)**
+* ☕ Fun fact: *Coding + Chai = Perfect Combo*
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend**
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?&style=flat-square&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?\&style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?\&style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?\&style=flat-square\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?\&style=flat-square\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?\&style=flat-square\&logo=angular\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?\&style=flat-square\&logo=bootstrap\&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?\&style=flat-square\&logo=figma\&logoColor=white)
 
 **Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-blue?style=flat-square&logo=.net&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?&style=flat-square&logo=postgresql&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square\&logo=.net\&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?\&style=flat-square\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?\&style=flat-square\&logo=laravel\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?\&style=flat-square\&logo=mysql\&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?\&style=flat-square\&logo=postgresql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square\&logo=firebase\&logoColor=000)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=000)
 
 **Mobile & Tools**
-
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat-square&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?\&style=flat-square\&logo=dart\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?\&style=flat-square\&logo=flutter\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?\&style=flat-square\&logo=git\&logoColor=white)
 
 ---
 
 ## 📁 Featured Projects
 
-- 🎯 **E-Book Store (MERN/Full-Stack)** – Buy, rent, listen to audiobooks, weekly article contests  
-  _Auth, role-based access, payments, admin dashboard_
+* 🎯 **E-Book Store (MERN + Flutter)** — Buy, rent, listen to audiobooks, weekly article contests
+  *Auth, role-based access, payments, admin dashboard, push notifications*
 
-- 💉 **COVID-19 Vaccination System (Laravel)** – Admin & user portals, reports, notifications
+* 💉 **COVID-19 Vaccination System (Laravel)** — Admin & user portals, reports, notifications
 
-- 🏫 **Symphony Institute App (Angular + ASP.NET Core)** – LMS modules, attendance, results
+* 🏫 **Symphony Institute App (Angular + ASP.NET Core)** — LMS modules, attendance, results
 
-- 🛍️ **Mujarrat Al-Nisa (E-Commerce)** – Ladies’ clothing store (in progress)
+* 🛍️ **Mujarrat Al-Nisa (E-Commerce)** — Ladies’ clothing store (in progress)
 
-> _Add repo links or live demos here when ready._
+> *Add repo links or live demos here when ready.*
 
 ---
 
 ## 🏅 Achievements
 
-- 🏆 Top Student – **Aptech Metro Star Gate**
-- 🎓 Completed **CPISM** & **DISM** (with distinction)
-- 👨‍💻 3+ years hands-on with **Angular** & modern web tech
-- 🏅 **Aptech Project of the Month – Feb 2025**
+* 🏆 Top Student — **Aptech Metro Star Gate**
+* 🎓 Completed **CPISM** & **DISM** (with distinction)
+* 👨‍💻 3+ years hands-on with **Angular** & modern web tech
+* 🏅 **Aptech Project of the Month — Feb 2025**
 
 ---
 
 ## ✍️ Blog / Articles
 
-> *“Knowledge grows when shared.”*  
-Coming soon on [Hashnode](https://hashnode.com/) & [Dev.to](https://dev.to/)
+> *“Knowledge grows when shared.”*
+> Coming soon on [Hashnode](https://hashnode.com/) & [Dev.to](https://dev.to/)
 
 ---
 
@@ -120,8 +130,8 @@ Coming soon on [Hashnode](https://hashnode.com/) & [Dev.to](https://dev.to/)
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/scharique-najam)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mschariquen@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/scharique-najam)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:mschariquen@gmail.com)
 
 ---
 
