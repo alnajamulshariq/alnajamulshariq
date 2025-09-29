@@ -51,6 +51,61 @@
 
 ---
 
+## 🟦 TypeScript • Angular • C# • ASP.NET Core • SQL
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+* Angular front-end development with TypeScript
+* C# & ASP.NET Core APIs
+* SQL queries, stored procedures, schema design
+* Enterprise-level MVC + REST applications
+
+---
+
+## 🟨 JavaScript (Advanced) • XML • PHP • MySQL • Laravel
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/XML-8A2BE2.svg?style=for-the-badge&logo=w3c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
+
+* Advanced JavaScript for dynamic web apps
+* XML integrations
+* PHP & Laravel MVC web apps
+* MySQL database design & queries
+
+---
+
+## 🌐 HTML5 • CSS3 • JavaScript • jQuery • Bootstrap • Git • GitHub • SEO
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+* Responsive web design with HTML5/CSS3
+* jQuery scripting for dynamic UI
+* Bootstrap components & layouts
+* Git & GitHub for version control
+* SEO optimization basics
+
+---
+
 ## 💻 About Me
 
 * 🔭 Currently building **full-stack apps** (MERN, Angular/.NET, Flutter)
@@ -58,38 +113,6 @@
 * 💬 Ask me about **MERN, Angular, ASP.NET Core, Laravel, PHP, JavaScript, Flutter**
 * 📫 Reach me at **[mschariquen@gmail.com](mailto:mschariquen@gmail.com)**
 * ☕ Fun fact: *Coding + Chai = Perfect Combo*
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?\&style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?\&style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?\&style=flat-square\&logo=javascript\&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?\&style=flat-square\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?\&style=flat-square\&logo=angular\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?\&style=flat-square\&logo=bootstrap\&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?\&style=flat-square\&logo=figma\&logoColor=white)
-
-**Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square\&logo=.net\&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?\&style=flat-square\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?\&style=flat-square\&logo=laravel\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?\&style=flat-square\&logo=mysql\&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?\&style=flat-square\&logo=postgresql\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square\&logo=firebase\&logoColor=000)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=000)
-
-**Mobile & Tools**
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?\&style=flat-square\&logo=dart\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?\&style=flat-square\&logo=flutter\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?\&style=flat-square\&logo=git\&logoColor=white)
 
 ---
 
@@ -143,4 +166,4 @@
 
 ---
 
-<p align="center"><i>"Keep learning, keep building — the
+<p align="center"><i>"Keep learning, keep building — the sky is not the limit!"</i></p>
