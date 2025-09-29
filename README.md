@@ -34,12 +34,20 @@
 
 ---
 
-## 📱 Mobile + Backend (Flutter, Firebase & Supabase)
+## 📱 Flutter Focus
 
-* **Flutter (Dart):** Cross-platform apps with clean UI, Provider/Bloc state management
-* **Firebase:** Auth, Firestore/RTDB, Storage, Cloud Functions, Push Notifications (FCM)
-* **Supabase:** Postgres with RLS, Auth (OAuth/Email OTP), Storage, Edge Functions
-* Offline-first apps, caching, repository pattern, environment-based configs
+<p>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=000"/>
+</p>
+
+* Flutter apps with clean UI & responsive layouts
+* State management (Provider, Bloc)
+* Firebase: Auth, Firestore/RTDB, Storage, Cloud Functions, FCM
+* Supabase: Postgres (RLS), Auth, Storage, Edge Functions
+* Offline-first, repository pattern, caching, environment configs
 
 ---
 
@@ -135,4 +143,4 @@
 
 ---
 
-<p align="center"><i>"Keep learning, keep building — the sky is not the limit!"</i></p>
+<p align="center"><i>"Keep learning, keep building — the
