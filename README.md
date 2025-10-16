@@ -29,7 +29,7 @@
 * RESTful APIs with Express & Node
 * JWT/Auth, RBAC, and secure cookie/session strategies
 * MongoDB schema design (Mongoose), aggregation pipelines & indexing
-* React 18 + Hooks + Context/Redux, React Router, form libs
+* React 19 + Hooks + Context/Redux, React Router, form libs
 * Production setups: env configs, logging, validation & CI basics
 
 ---
