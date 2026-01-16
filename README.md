@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://alnajamulshariq.github.io/Shariq-Portfolio/"><b>🔗 Live Portfolio</b></a>
+  <a href="https://shariq-najam.netlify.app/"><b>🔗 Live Portfolio</b></a>
 </p>
 
 ---
@@ -161,7 +161,7 @@
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/scharique-najam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/2ansari)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:mschariquen@gmail.com)
 
 ---
