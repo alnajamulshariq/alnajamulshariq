@@ -137,6 +137,7 @@
 * 🎓 Completed **CPISM** & **DISM** (with distinction)
 * 👨‍💻 3+ years hands-on with **Angular** & modern web tech
 * 🏅 **Aptech Project of the Month — Feb 2025**
+* 🏅 **Aptech Project of the Month — Jan 2026**
 
 ---
 
