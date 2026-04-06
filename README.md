@@ -24,12 +24,16 @@
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=000"/>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 * RESTful APIs with Express & Node
 * JWT/Auth, RBAC, and secure cookie/session strategies
 * MongoDB schema design (Mongoose), aggregation pipelines & indexing
-* React 19 + Hooks + Context/Redux, React Router, form libs
+* React 19 + Hooks + Context, **Redux Toolkit**, React Router, form libs
+* Modern UI development with **Tailwind CSS & shadcn/ui**
 * Production setups: env configs, logging, validation & CI basics
 
 ---
