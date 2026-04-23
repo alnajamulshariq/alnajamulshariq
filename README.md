@@ -22,7 +22,7 @@
 
 ---
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🧠 About Me
 
@@ -39,87 +39,50 @@
 # 🎓 Academic Journey (Semester-wise)
 
 ## 🟢 CPISM — *Certificate of Proficiency in Information Systems Management*
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
 </p>
 
-- HTML, CSS, JavaScript, Advanced JS  
-- Bootstrap, jQuery  
-- Git & GitHub  
-- SEO Fundamentals  
-
 ---
 
 ## 🔵 DISM — *Diploma in Information Systems Management*
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=php,mysql,laravel" />
 </p>
 
-- PHP Development  
-- MySQL Database Design  
-- XML Integration  
-- Laravel Framework  
-
 ---
 
 ## 🟣 HDSE-I — *Higher Diploma in Software Engineering (Part I)*
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=ts,angular,dotnet" />
 </p>
 
-- TypeScript  
-- Angular Development  
-- C# & ASP.NET Core  
-- SQL (Stored Procedures, Queries)  
-
 ---
 
 ## 🟡 HDSE-II — *Higher Diploma in Software Engineering (Part II)*
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%"/>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
 
-- Flutter & Dart  
-- Supabase Integration  
-- Azure Basics  
-- Agile & DevOps  
-
 ---
 
 ## 🔴 ADSE-I — *Advanced Diploma in Software Engineering (Part I)*
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" />
 </p>
 
-- MERN Stack Development  
-- Tailwind CSS & shadcn/ui  
-- REST APIs & Authentication  
-
 ---
 
 ## ⚫ ADSE-II — *Advanced Diploma in Software Engineering (Part II)*
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask" />
 </p>
-
-- Python Programming  
-- Django & Flask  
-- Data Science with R  
-- Tableau Desktop  
-- Big Data (Hadoop & Spark)  
-- Web & Social Media Analytics  
 
 ---
 
@@ -133,8 +96,6 @@
 
 <h3 align="center">📚 E-Book Store</h3>
 
-Full-featured platform with buying, renting & audiobooks  
-
 `MERN` `Flutter` `Firebase`
 
 </td>
@@ -142,8 +103,6 @@ Full-featured platform with buying, renting & audiobooks
 <td width="50%">
 
 <h3 align="center">💉 Vaccination System</h3>
-
-Admin & user portal with tracking & reports  
 
 `Laravel` `MySQL`
 
@@ -155,8 +114,6 @@ Admin & user portal with tracking & reports
 
 <h3 align="center">🏫 Symphony Institute</h3>
 
-Student management system  
-
 `Angular` `.NET`
 
 </td>
@@ -164,8 +121,6 @@ Student management system
 <td width="50%">
 
 <h3 align="center">🛍 Mujarrat Al-Nisa</h3>
-
-E-commerce platform (in progress)  
 
 `MERN`
 
