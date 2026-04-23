@@ -7,7 +7,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=alnajamulshariq&label=Profile%20Views&color=00c9ff&style=for-the-badge"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%2B+.NET+Specialist;MERN+Stack+Expert;Flutter+App+Builder;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%2B+.NET+Specialist;MERN+Stack+Developer;Flutter+App+Builder;Always+Learning+New+Technologies" />
 
 <br>
 
@@ -29,23 +29,23 @@
 🚀 Passionate **Full Stack & Mobile App Developer** with hands-on experience in building real-world applications using modern technologies.
 
 💻 I specialize in:
-- MERN Stack (MongoDB, Express, React, Node.js)
-- Angular & ASP.NET Core (Enterprise Applications)
-- Flutter (Cross-platform Mobile Apps)
+- MERN Stack development
+- Angular & ASP.NET Core enterprise applications
+- Flutter cross-platform mobile apps
 
 🎯 What I bring:
 - Strong problem-solving mindset  
 - Clean, scalable and production-ready code  
-- Experience working on real projects (web + mobile)  
-- Continuous learning attitude in modern tech & AI  
+- Experience working on real-world web and mobile projects  
+- Continuous learning attitude in modern tech, AI and data technologies  
 
 🏆 Achievements:
-- 2x **Project of the Month (Aptech)**  
+- 2x **Project of the Month — Aptech**  
 - Top-performing student with multiple distinctions  
 
 ⚡ Currently:
 - Building full-stack & mobile applications  
-- Exploring **Python, AI/ML & Data Technologies**  
+- Exploring **Python, AI/ML, Data Science & Big Data**  
 
 ☕ Fun Fact: *Coding + Chai = Productivity Boost ⚡*
 
@@ -58,7 +58,12 @@
 ## 🟢 CPISM — *Certificate of Proficiency in Information Systems Management*
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ---
@@ -66,11 +71,12 @@
 ## 🔵 DISM — *Diploma in Information Systems Management*
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,mysql,laravel" />
+<img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=xml" />
+<img src="https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge&logo=w3c&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
@@ -82,7 +88,9 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
 ---
@@ -90,7 +98,12 @@
 ## 🟡 HDSE-II — *Higher Diploma in Software Engineering (Part II)*
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,azure" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,azure" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 </p>
 
 ---
@@ -101,6 +114,10 @@
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" />
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+</p>
+
 ---
 
 ## ⚫ ADSE-II — *Advanced Diploma in Software Engineering (Part II)*
@@ -108,6 +125,19 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask,r" />
 </p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Tableau%20Desktop-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science%20with%20R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Analytics%2001-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Social%20Media%20Analytics%2002-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop%20Developer-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spark%20Developer-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop%20Administrator-0A0A0A?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
+</p>
+
+---
+
 # 🚀 Featured Projects
 
 <div align="center">
@@ -150,7 +180,7 @@ Student management system
 
 <h3 align="center">🛍 Mujarrat Al-Nisa</h3>
 
-E-commerce platform (in progress)  
+E-commerce platform for ladies clothing  
 
 `MERN`
 
@@ -167,7 +197,7 @@ E-commerce platform (in progress)
 - 🥇 Top Student — Aptech Metro Star Gate  
 - 🏅 Project of the Month — Feb 2025  
 - 🏅 Project of the Month — Jan 2026  
-- 🎓 CPISM, DISM, HDSE (Distinction)  
+- 🎓 CPISM, DISM, HDSE-I & HDSE-II — Distinction  
 
 ---
 
