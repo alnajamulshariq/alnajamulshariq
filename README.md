@@ -26,28 +26,25 @@
 
 ## 🧠 About Me
 
-🚀 Passionate **Full Stack & Mobile App Developer** with hands-on experience in building real-world applications using modern technologies.
+🚀 Passionate **Full Stack & Mobile App Developer** with hands-on experience in building real-world applications.
 
-💻 I specialize in:
-- MERN Stack development
-- Angular & ASP.NET Core enterprise applications
-- Flutter cross-platform mobile apps
+💻 Tech Focus:
+- MERN Stack  
+- Angular & ASP.NET Core  
+- Flutter Mobile Apps  
 
-🎯 What I bring:
-- Strong problem-solving mindset  
-- Clean, scalable and production-ready code  
-- Experience working on real-world web and mobile projects  
-- Continuous learning attitude in modern tech, AI and data technologies  
+🎯 Strengths:
+- Problem solving  
+- Clean & scalable code  
+- Real-world project experience  
+- Continuous learning mindset  
 
-🏆 Achievements:
-- 2x **Project of the Month — Aptech**  
-- Top-performing student with multiple distinctions  
+🏆 2x Project of the Month — Aptech  
 
-⚡ Currently:
-- Building full-stack & mobile applications  
-- Exploring **Python, AI/ML, Data Science & Big Data**  
+⚡ Exploring:
+Python • AI/ML • Data Science • Big Data  
 
-☕ Fun Fact: *Coding + Chai = Productivity Boost ⚡*
+☕ *Coding + Chai = Productivity Boost*
 
 <br clear="right"/>
 
@@ -61,22 +58,12 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
 ---
 
 ## 🔵 DISM — *Diploma in Information Systems Management*
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge&logo=w3c&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
 </p>
 
 ---
@@ -84,13 +71,7 @@
 ## 🟣 HDSE-I — *Higher Diploma in Software Engineering (Part I)*
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,angular,dotnet" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=ts,angular,dotnet,cs" />
 </p>
 
 ---
@@ -101,11 +82,6 @@
 <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,azure" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-</p>
-
 ---
 
 ## 🔴 ADSE-I — *Advanced Diploma in Software Engineering (Part I)*
@@ -114,26 +90,12 @@
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
-</p>
-
 ---
 
 ## ⚫ ADSE-II — *Advanced Diploma in Software Engineering (Part II)*
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask,r" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Tableau%20Desktop-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Science%20with%20R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web%20Analytics%2001-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Social%20Media%20Analytics%2002-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadoop%20Developer-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Spark%20Developer-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadoop%20Administrator-0A0A0A?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
 </p>
 
 ---
@@ -145,59 +107,30 @@
 <table>
 <tr>
 <td width="50%">
-
 <h3 align="center">📚 E-Book Store</h3>
-
-Full-featured platform with buying, renting & audiobooks  
-
-`MERN` `Flutter` `Firebase`
-
+MERN + Flutter + Firebase
 </td>
 
 <td width="50%">
-
 <h3 align="center">💉 Vaccination System</h3>
-
-Admin & user portal with tracking & reports  
-
-`Laravel` `MySQL`
-
+Laravel + MySQL
 </td>
 </tr>
 
 <tr>
 <td width="50%">
-
 <h3 align="center">🏫 Symphony Institute</h3>
-
-Student management system  
-
-`Angular` `.NET`
-
+Angular + .NET
 </td>
 
 <td width="50%">
-
 <h3 align="center">🛍 Mujarrat Al-Nisa</h3>
-
-E-commerce platform for ladies clothing  
-
-`MERN`
-
+MERN
 </td>
 </tr>
 </table>
 
 </div>
-
----
-
-# 🏆 Achievements
-
-- 🥇 Top Student — Aptech Metro Star Gate  
-- 🏅 Project of the Month — Feb 2025  
-- 🏅 Project of the Month — Jan 2026  
-- 🎓 CPISM, DISM, HDSE-I & HDSE-II — Distinction  
 
 ---
 
@@ -210,17 +143,9 @@ E-commerce platform for ladies clothing
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alnajamulshariq&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect
 
 <div align="center">
 
@@ -241,7 +166,5 @@ E-commerce platform for ladies clothing
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-
 </div>
