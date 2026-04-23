@@ -22,15 +22,32 @@
 
 ---
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🧠 About Me
 
-- 💻 Full Stack Developer (MERN + Angular/.NET)
-- 📱 Flutter Developer (Firebase & Supabase)
-- 🏆 2x Project of the Month (Aptech)
-- ⚡ 3+ years experience in Angular
-- 🎯 Building real-world scalable apps
+🚀 Passionate **Full Stack & Mobile App Developer** with hands-on experience in building real-world applications using modern technologies.
+
+💻 I specialize in:
+- MERN Stack (MongoDB, Express, React, Node.js)
+- Angular & ASP.NET Core (Enterprise Applications)
+- Flutter (Cross-platform Mobile Apps)
+
+🎯 What I bring:
+- Strong problem-solving mindset  
+- Clean, scalable and production-ready code  
+- Experience working on real projects (web + mobile)  
+- Continuous learning attitude in modern tech & AI  
+
+🏆 Achievements:
+- 2x **Project of the Month (Aptech)**  
+- Top-performing student with multiple distinctions  
+
+⚡ Currently:
+- Building full-stack & mobile applications  
+- Exploring **Python, AI/ML & Data Technologies**  
+
+☕ Fun Fact: *Coding + Chai = Productivity Boost ⚡*
 
 <br clear="right"/>
 
@@ -39,7 +56,6 @@
 # 🎓 Academic Journey (Semester-wise)
 
 ## 🟢 CPISM — *Certificate of Proficiency in Information Systems Management*
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
 </p>
@@ -47,7 +63,6 @@
 ---
 
 ## 🔵 DISM — *Diploma in Information Systems Management*
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=php,mysql,laravel" />
 </p>
@@ -55,7 +70,6 @@
 ---
 
 ## 🟣 HDSE-I — *Higher Diploma in Software Engineering (Part I)*
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=ts,angular,dotnet" />
 </p>
@@ -63,7 +77,6 @@
 ---
 
 ## 🟡 HDSE-II — *Higher Diploma in Software Engineering (Part II)*
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
@@ -71,7 +84,6 @@
 ---
 
 ## 🔴 ADSE-I — *Advanced Diploma in Software Engineering (Part I)*
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" />
 </p>
@@ -79,7 +91,6 @@
 ---
 
 ## ⚫ ADSE-II — *Advanced Diploma in Software Engineering (Part II)*
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask" />
 </p>
@@ -96,6 +107,8 @@
 
 <h3 align="center">📚 E-Book Store</h3>
 
+Full-featured platform with buying, renting & audiobooks  
+
 `MERN` `Flutter` `Firebase`
 
 </td>
@@ -103,6 +116,8 @@
 <td width="50%">
 
 <h3 align="center">💉 Vaccination System</h3>
+
+Admin & user portal with tracking & reports  
 
 `Laravel` `MySQL`
 
@@ -114,6 +129,8 @@
 
 <h3 align="center">🏫 Symphony Institute</h3>
 
+Student management system  
+
 `Angular` `.NET`
 
 </td>
@@ -121,6 +138,8 @@
 <td width="50%">
 
 <h3 align="center">🛍 Mujarrat Al-Nisa</h3>
+
+E-commerce platform (in progress)  
 
 `MERN`
 
