@@ -58,12 +58,7 @@
 ## 🟢 CPISM — *Certificate of Proficiency in Information Systems Management*
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,git,github" />
 </p>
 
 ---
@@ -75,7 +70,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge&logo=w3c&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=xml" />
 </p>
 
 ---
@@ -87,9 +82,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=cs" />
 </p>
 
 ---
@@ -97,13 +90,7 @@
 ## 🟡 HDSE-II — *Higher Diploma in Software Engineering (Part II)*
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-<img src="https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,azure" />
 </p>
 
 ---
@@ -114,30 +101,13 @@
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
 ---
 
 ## ⚫ ADSE-II — *Advanced Diploma in Software Engineering (Part II)*
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,r" />
 </p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Science-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Analytics-4285F4?style=for-the-badge"/>
-</p>
-
----
----
-
 # 🚀 Featured Projects
 
 <div align="center">
