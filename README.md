@@ -5,6 +5,8 @@
 ### 🚀 Full Stack & Mobile App Developer  
 *MERN • Angular/.NET • Flutter*
 
+<img src="https://komarev.com/ghpvc/?username=alnajamulshariq&label=Profile%20Views&color=00c9ff&style=for-the-badge"/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%2B+.NET+Specialist;MERN+Stack+Expert;Flutter+App+Builder;Always+Learning+New+Technologies" />
 
 <br>
@@ -36,7 +38,9 @@
 
 # 🎓 Academic Journey (Semester-wise)
 
-## 🟢 CPISM
+## 🟢 CPISM — *Certificate of Proficiency in Information Systems Management*
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
 </p>
@@ -48,7 +52,9 @@
 
 ---
 
-## 🔵 DISM
+## 🔵 DISM — *Diploma in Information Systems Management*
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=php,mysql,laravel" />
 </p>
@@ -60,7 +66,9 @@
 
 ---
 
-## 🟣 HDSE-I
+## 🟣 HDSE-I — *Higher Diploma in Software Engineering (Part I)*
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=ts,angular,dotnet" />
 </p>
@@ -72,7 +80,9 @@
 
 ---
 
-## 🟡 HDSE-II
+## 🟡 HDSE-II — *Higher Diploma in Software Engineering (Part II)*
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%"/>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
@@ -84,7 +94,9 @@
 
 ---
 
-## 🔴 ADSE-I
+## 🔴 ADSE-I — *Advanced Diploma in Software Engineering (Part I)*
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" />
 </p>
@@ -95,7 +107,9 @@
 
 ---
 
-## ⚫ ADSE-II
+## ⚫ ADSE-II — *Advanced Diploma in Software Engineering (Part II)*
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask" />
 </p>
