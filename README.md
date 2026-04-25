@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Shariq%20Najam&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
 ### 🚀 Full Stack & Mobile App Developer  
-*MERN • Angular/.NET • Flutter*
+*MERN • MEAN • .NET • Flutter*
 
 <img src="https://komarev.com/ghpvc/?username=alnajamulshariq&label=Profile%20Views&color=00c9ff&style=for-the-badge"/>
 
