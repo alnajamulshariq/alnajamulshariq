@@ -1,11 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f2027,100:00c9ff&height=190&section=header&text=Shariq%20Najam&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%26%20Mobile%20App%20Developer&descSize=18&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f2027,100:00c9ff&height=120&section=header" />
 
-### 🚀 Full Stack & Mobile App Developer  
-*MERN • MEAN • .NET • Flutter*
+<h1>⚡ Shariq Najam ⚡</h1>
 
-### 🥇 ADSE-I Exam Topper | 🏆 2x Project of the Month — Aptech
+<h3>🚀 Full Stack & Mobile App Developer</h3>
+
+<p>
+  <b>MERN</b> • <b>MEAN</b> • <b>.NET</b> • <b>Flutter</b>
+</p>
+
+<h3>🥇 ADSE-I Exam Topper | 🏆 2x Project of the Month — Aptech</h3>
 
 <img src="https://komarev.com/ghpvc/?username=alnajamulshariq&label=Profile%20Views&color=00c9ff&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Founder-Zentherix-00C9FF?style=for-the-badge"/>
@@ -15,7 +20,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;ADSE-I+Exam+Topper;2x+Project+of+the+Month+Winner;Angular+%2B+.NET+Specialist;MERN+Stack+Developer;Flutter+App+Builder;Founder+of+Zentherix;Always+Learning+New+Technologies" />
 
-<br>
+<br><br>
 
 <a href="https://shariq-najam.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -338,12 +343,15 @@ Premium software house website focused on modern web and mobile development serv
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alnajamulshariq&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=alnajamulshariq&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alnajamulshariq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00C9FF&icon_color=00C9FF&text_color=FFFFFF"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnajamulshariq&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=alnajamulshariq&theme=tokyonight&hide_border=true&background=020617&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnajamulshariq&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00C9FF&text_color=FFFFFF"/>
 
 </div>
 
