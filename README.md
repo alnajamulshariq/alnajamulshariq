@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Shariq%20Najam&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f2027,100:00c9ff&height=190&section=header&text=Shariq%20Najam&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%26%20Mobile%20App%20Developer&descSize=18&descAlignY=58" />
 
 ### 🚀 Full Stack & Mobile App Developer  
 *MERN • MEAN • .NET • Flutter*
@@ -8,15 +8,17 @@
 ### 🥇 ADSE-I Exam Topper | 🏆 2x Project of the Month — Aptech
 
 <img src="https://komarev.com/ghpvc/?username=alnajamulshariq&label=Profile%20Views&color=00c9ff&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Founder-Zentherix-00C9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Available%20for-Projects-22C55E?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;ADSE-I+Exam+Topper;2x+Project+of+the+Month+Winner;Angular+%2B+.NET+Specialist;MERN+Stack+Developer;Flutter+App+Builder;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;ADSE-I+Exam+Topper;2x+Project+of+the+Month+Winner;Angular+%2B+.NET+Specialist;MERN+Stack+Developer;Flutter+App+Builder;Founder+of+Zentherix;Always+Learning+New+Technologies" />
 
 <br>
 
 <a href="https://shariq-najam.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.zentherix.com">
   <img src="https://img.shields.io/badge/Zentherix-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -71,57 +73,80 @@ Python • AI/ML • Data Science • Big Data • Django • Flask
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,50:203a43,100:0f2027&height=3&section=header"/>
+
+<br>
+
 <table>
 <tr>
 <td width="33%" align="center">
+
 <h3>🥇 Exam Topper</h3>
-<h4>ADSE-I</h4>
-<p>Recognized for outstanding academic performance at Aptech Metro Star Gate.</p>
+
+<img src="https://img.shields.io/badge/ADSE--I-Academic%20Excellence-00C9FF?style=for-the-badge"/>
+
+<br>
+
+<sub>Recognized for outstanding academic performance at Aptech Metro Star Gate.</sub>
+
+<br><br>
 
 <a href="https://www.facebook.com/AptechMetro/posts/pfbid0txejUMEYYdvdKaTnN5qQUNiZzj9niJjHvGwCfnc58vCoJyxnhomaXoBLoUsbLFTDl?rdid=TWQROMnv45JVBsoL#">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </a>
-
-<br><br>
-
 <a href="https://www.instagram.com/p/DX_d_AhCCFL/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
+
 </td>
 
 <td width="33%" align="center">
+
 <h3>🏆 Project of the Month</h3>
-<h4>ADSE-I</h4>
-<p>Awarded for building a real-world software project using modern technologies.</p>
+
+<img src="https://img.shields.io/badge/ADSE--I-Winner-00C9FF?style=for-the-badge"/>
+
+<br>
+
+<sub>Awarded for building a real-world software project using modern technologies.</sub>
+
+<br><br>
 
 <a href="https://www.facebook.com/photo/?fbid=1225010943111808&set=a.1204126128533623">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </a>
-
-<br><br>
-
 <a href="https://www.instagram.com/p/DUdW1_SCNfn/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
+
 </td>
 
 <td width="33%" align="center">
-<h3>🏆 Project of the Month</h3>
-<h4>HDSE-I</h4>
-<p>Recognized by Aptech for excellent project development and implementation.</p>
 
-<a href="https://www.facebook.com/photo.php?fbid=966695325610039&set=a.943883361224569&type=3&rdid=UBgGhL6nS24ROF6s&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Pza2CEsXs%2F#">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+<h3>🏆 Project of the Month</h3>
+
+<img src="https://img.shields.io/badge/HDSE--I-Winner-00C9FF?style=for-the-badge"/>
+
+<br>
+
+<sub>Recognized by Aptech for excellent project development and implementation.</sub>
 
 <br><br>
 
-<a href="https://www.instagram.com/p/DG7XjURolAR/?img_index=3&igsh=MTRqZ25mdm9jcDc1cQ%3D%3D">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.facebook.com/photo.php?fbid=966695325610039&set=a.943883361224569&type=3&rdid=UBgGhL6nS24ROF6s&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Pza2CEsXs%2F#">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </a>
+<a href="https://www.instagram.com/p/DG7XjURolAR/?img_index=3&igsh=MTRqZ25mdm9jcDc1cQ%3D%3D">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
 </td>
 </tr>
 </table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:00c9ff&height=3&section=footer"/>
 
 </div>
 
@@ -357,5 +382,5 @@ Premium software house website focused on modern web and mobile development serv
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f2027,100:00c9ff&height=130&section=footer"/>
 </div>
