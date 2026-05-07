@@ -1,14 +1,11 @@
 <div align="center">
 
-<h1>⚡ Shariq Najam ⚡</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f2027,100:00c9ff&height=190&section=header&text=Shariq%20Najam&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%26%20Mobile%20App%20Developer&descSize=18&descAlignY=58" />
 
-<h3>🚀 Full Stack & Mobile App Developer</h3>
+### 🚀 Full Stack & Mobile App Developer  
+*MERN • MEAN • .NET • Flutter*
 
-<p>
-  <b>MERN</b> • <b>MEAN</b> • <b>.NET</b> • <b>Flutter</b>
-</p>
-
-<h3>🥇 ADSE-I Exam Topper | 🏆 2x Project of the Month — Aptech</h3>
+### 🥇 ADSE-I Exam Topper | 🏆 2x Project of the Month — Aptech
 
 <img src="https://komarev.com/ghpvc/?username=alnajamulshariq&label=Profile%20Views&color=00c9ff&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Founder-Zentherix-00C9FF?style=for-the-badge"/>
@@ -18,7 +15,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;ADSE-I+Exam+Topper;2x+Project+of+the+Month+Winner;Angular+%2B+.NET+Specialist;MERN+Stack+Developer;Flutter+App+Builder;Founder+of+Zentherix;Always+Learning+New+Technologies" />
 
-<br><br>
+<br>
 
 <a href="https://shariq-najam.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -32,10 +29,6 @@
 <a href="https://linkedin.com/in/2ansari">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━-00C9FF?style=for-the-badge&labelColor=020617&color=00C9FF"/>
 
 </div>
 
@@ -80,9 +73,9 @@ Python • AI/ML • Data Science • Big Data • Django • Flask
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Verified-Achievements%20%26%20Milestones-00C9FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,50:203a43,100:0f2027&height=3&section=header"/>
 
-<br><br>
+<br>
 
 <table>
 <tr>
@@ -92,7 +85,7 @@ Python • AI/ML • Data Science • Big Data • Django • Flask
 
 <img src="https://img.shields.io/badge/ADSE--I-Academic%20Excellence-00C9FF?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 <sub>Recognized for outstanding academic performance at Aptech Metro Star Gate.</sub>
 
@@ -113,7 +106,7 @@ Python • AI/ML • Data Science • Big Data • Django • Flask
 
 <img src="https://img.shields.io/badge/ADSE--I-Winner-00C9FF?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 <sub>Awarded for building a real-world software project using modern technologies.</sub>
 
@@ -134,7 +127,7 @@ Python • AI/ML • Data Science • Big Data • Django • Flask
 
 <img src="https://img.shields.io/badge/HDSE--I-Winner-00C9FF?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 <sub>Recognized by Aptech for excellent project development and implementation.</sub>
 
@@ -153,7 +146,7 @@ Python • AI/ML • Data Science • Big Data • Django • Flask
 
 <br>
 
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━-00C9FF?style=for-the-badge&labelColor=020617&color=00C9FF"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:00c9ff&height=3&section=footer"/>
 
 </div>
 
@@ -345,18 +338,12 @@ Premium software house website focused on modern web and mobile development serv
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=alnajamulshariq&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alnajamulshariq&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=alnajamulshariq&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/GitHub-Active%20Developer-00C9FF?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-MERN%20%7C%20Angular%20%7C%20Flutter-F59E0B?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Learning-Python%20%7C%20AI%2FML%20%7C%20Big%20Data-00C9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Building-Zentherix-020617?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnajamulshariq&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -390,8 +377,10 @@ Premium software house website focused on modern web and mobile development serv
 
 ### 💡 “Building scalable digital solutions with clean code, modern design, and continuous learning.”
 
-<br>
+</div>
 
-<img src="https://img.shields.io/badge/Thanks%20for%20visiting-My%20GitHub%20Profile-00C9FF?style=for-the-badge&labelColor=020617"/>
+---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f2027,100:00c9ff&height=130&section=footer"/>
 </div>
