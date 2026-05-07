@@ -343,15 +343,19 @@ Premium software house website focused on modern web and mobile development serv
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alnajamulshariq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00C9FF&icon_color=00C9FF&text_color=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=alnajamulshariq&theme=tokyonight&hide_border=true&background=020617&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF"/>
 
 <br><br>
 
-<img height="170" src="https://streak-stats.demolab.com?user=alnajamulshariq&theme=tokyonight&hide_border=true&background=020617&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF"/>
+<img src="https://img.shields.io/badge/Total%20Contributions-224-00C9FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Longest%20Streak-7%20Days-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Current%20Focus-MERN%20%7C%20Angular%20%7C%20Flutter-F59E0B?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnajamulshariq&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00C9FF&text_color=FFFFFF"/>
+<img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-00C9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-Python%20%7C%20AI%2FML%20%7C%20Big%20Data-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Building-Zentherix-020617?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
 </div>
 
