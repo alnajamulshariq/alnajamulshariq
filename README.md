@@ -1,241 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Shariq%20Najam&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0ea5e9&height=210&section=header&text=Shariq%20Najam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=18" />
 
-### 🚀 Full Stack & Mobile App Developer  
-*MERN • MEAN • .NET • Flutter*
-
-### 🥇 ADSE-I Exam Topper | 🏆 2x Project of the Month — Aptech
-
-<img src="https://komarev.com/ghpvc/?username=alnajamulshariq&label=Profile%20Views&color=00c9ff&style=for-the-badge"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;ADSE-I+Exam+Topper;2x+Project+of+the+Month+Winner;Angular+%2B+.NET+Specialist;MERN+Stack+Developer;Flutter+App+Builder;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=MERN+%E2%80%A2+MEAN+%E2%80%A2+.NET+%E2%80%A2+Flutter;ADSE-I+Exam+Topper+%F0%9F%A5%87;2x+Project+of+the+Month+Winner+%F0%9F%8F%86;Founder+of+Zentherix;Building+Premium+Digital+Solutions" />
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=alnajamulshariq&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Available%20for%20Projects-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-38bdf8?style=for-the-badge"/>
+
+<br><br>
+
 <a href="https://shariq-najam.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.zentherix.com">
-  <img src="https://img.shields.io/badge/Zentherix-00C9FF?style=for-the-badge&logo=internetexplorer&logoColor=white"/>
-</a>
-<a href="mailto:mschariquen@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zentherix-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/2ansari">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mschariquen@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-🚀 Passionate **Full Stack & Mobile App Developer** with hands-on experience in building real-world web and mobile applications.
+I am **Shariq Najam**, a passionate **Full Stack & Mobile App Developer** focused on building modern, scalable, and real-world digital products.
 
-💻 **Tech Focus:**
-- MERN Stack Development  
-- MEAN Stack Development  
-- Angular & ASP.NET Core  
-- Flutter Mobile App Development  
-- Modern UI/UX & Scalable Architecture  
+I work with **MERN, MEAN, Angular, ASP.NET Core, Flutter, Firebase, Laravel, and modern frontend technologies**. I also run **Zentherix**, a software house focused on premium web and mobile solutions.
 
-🎯 **Strengths:**
-- Problem solving  
-- Clean and scalable code  
-- Real-world project experience  
-- Team collaboration  
-- Continuous learning mindset  
+### 🎯 What I Do
 
-🏆 **Achievements:**
-- 🥇 **ADSE-I Exam Topper — Aptech**
+- 🚀 Build responsive and scalable web applications  
+- 📱 Develop mobile apps using Flutter  
+- ⚙️ Create REST APIs and backend systems  
+- 🎨 Design clean, modern, and user-friendly interfaces  
+- 🧠 Continuously learn advanced technologies  
+
+### 🏆 Highlights
+
+- 🥇 **ADSE-I Exam Topper — Aptech Metro Star Gate**
 - 🏆 **Project of the Month — ADSE-I**
 - 🏆 **Project of the Month — HDSE-I**
-- 🎖 Distinction holder in software engineering semesters  
-
-⚡ **Currently Exploring:**
-Python • AI/ML • Data Science • Big Data • Django • Flask  
-
-☕ *Coding + Chai = Productivity Boost*
+- 🎖 Distinction holder in software engineering semesters
 
 <br clear="right"/>
 
 ---
 
-# 🏆 Achievements & Official Links
-
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
-<h3>🥇 Exam Topper</h3>
-<p><b>ADSE-I</b></p>
-<p>Recognized for outstanding academic performance.</p>
+# 🏆 Verified Achievements
 
-<a href="https://lnkd.in/dn6pwNi8">
-<img src="https://img.shields.io/badge/Facebook-Official%20Post-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://lnkd.in/dDGZhkEE">
-<img src="https://img.shields.io/badge/Instagram-Official%20Post-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</td>
-
-<td width="33%" align="center">
-<h3>🏆 Project of the Month</h3>
-<p><b>ADSE-I</b></p>
-<p>Awarded for building a real-world software project using modern technologies.</p>
-
-<a href="https://lnkd.in/dw79ZWMb">
-<img src="https://img.shields.io/badge/Facebook-Official%20Post-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://lnkd.in/dqXa4iRB">
-<img src="https://img.shields.io/badge/Instagram-Official%20Post-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</td>
-
-<td width="33%" align="center">
-<h3>🏆 Project of the Month</h3>
-<p><b>HDSE-I</b></p>
-<p>Recognized by Aptech for excellent project development and implementation.</p>
-
-<a href="https://lnkd.in/dZ2CwQGa">
-<img src="https://img.shields.io/badge/Facebook-Official%20Post-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<br><br>
-
-<a href="https://lnkd.in/dJYYAG7V">
-<img src="https://img.shields.io/badge/Instagram-Official%20Post-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🎓 Academic Journey
-
-## 🟢 CPISM — *Certificate of Proficiency in Information Systems Management*
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
-</p>
-
-<p align="center">
-HTML • CSS • JavaScript • Bootstrap • jQuery • Git • GitHub • SEO
-</p>
-
----
-
-## 🔵 DISM — *Diploma in Information Systems Management*
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-</p>
-
-<p align="center">
-PHP • Laravel • MySQL • XML • Database Management
-</p>
-
----
-
-## 🟣 HDSE-I — *Higher Diploma in Software Engineering — Part I*
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,angular,dotnet,cs" />
-</p>
-
-<p align="center">
-TypeScript • Angular • C# • SQL • ASP.NET Core
-</p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Achievement-Project%20of%20the%20Month%20HDSE--I-00C9FF?style=for-the-badge"/>
-
-<br><br>
-
-<a href="https://lnkd.in/dZ2CwQGa">
-<img src="https://img.shields.io/badge/View-Facebook%20Post-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://lnkd.in/dJYYAG7V">
-<img src="https://img.shields.io/badge/View-Instagram%20Post-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🟡 HDSE-II — *Higher Diploma in Software Engineering — Part II*
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,azure" />
-</p>
-
-<p align="center">
-Dart • Flutter • Firebase • Supabase • Microsoft Azure • Agile & DevOps
-</p>
-
----
-
-## 🔴 ADSE-I — *Advanced Diploma in Software Engineering — Part I*
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" />
-</p>
-
-<p align="center">
-MongoDB • Express.js • React.js • Node.js • Tailwind CSS • shadcn/ui
-</p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Achievement-ADSE--I%20Exam%20Topper-00C9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Achievement-Project%20of%20the%20Month%20ADSE--I-2C5364?style=for-the-badge"/>
-
-<br><br>
-
-<a href="https://lnkd.in/dn6pwNi8">
-<img src="https://img.shields.io/badge/Exam%20Topper-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://lnkd.in/dDGZhkEE">
-<img src="https://img.shields.io/badge/Exam%20Topper-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:38bdf8&height=2&section=header"/>
 
 <br>
 
-<a href="https://lnkd.in/dw79ZWMb">
-<img src="https://img.shields.io/badge/Project%20of%20the%20Month-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+### 🥇 ADSE-I Exam Topper
+
+Outstanding academic performance recognition from **Aptech Metro Star Gate**.
+
+<a href="https://www.facebook.com/AptechMetro/posts/pfbid0txejUMEYYdvdKaTnN5qQUNiZzj9niJjHvGwCfnc58vCoJyxnhomaXoBLoUsbLFTDl?rdid=TWQROMnv45JVBsoL#">
+  <img src="https://img.shields.io/badge/View%20on-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-<a href="https://lnkd.in/dqXa4iRB">
-<img src="https://img.shields.io/badge/Project%20of%20the%20Month-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/p/DX_d_AhCCFL/">
+  <img src="https://img.shields.io/badge/View%20on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+<br><br>
+
+### 🏆 Project of the Month — ADSE-I
+
+Awarded for developing an impressive real-world software project using modern technologies.
+
+<a href="https://www.facebook.com/photo/?fbid=1225010943111808&amp;set=a.1204126128533623">
+  <img src="https://img.shields.io/badge/View%20on-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/p/DUdW1_SCNfn/">
+  <img src="https://img.shields.io/badge/View%20on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 🏆 Project of the Month — HDSE-I
+
+Recognized by **Aptech** for excellent project development, implementation, and presentation.
+
+<a href="https://www.facebook.com/photo.php?fbid=966695325610039&amp;set=a.943883361224569&amp;type=3&amp;rdid=UBgGhL6nS24ROF6s&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Pza2CEsXs%2F#">
+  <img src="https://img.shields.io/badge/View%20on-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/p/DG7XjURolAR/?img_index=3&amp;igsh=MTRqZ25mdm9jcDc1cQ%3D%3D">
+  <img src="https://img.shields.io/badge/View%20on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:0ea5e9&height=2&section=footer"/>
 
 </div>
-
----
-
-## ⚫ ADSE-II — *Advanced Diploma in Software Engineering — Part II*
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,flask,r" />
-</p>
-
-<p align="center">
-Python • Django • Flask • R Programming • Data Science • Big Data • Hadoop • Spark • Tableau
-</p>
 
 ---
 
@@ -243,7 +113,51 @@ Python • Django • Flask • R Programming • Data Science • Big Data • 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,nodejs,express,mongodb,mysql,php,laravel,dotnet,cs,dart,flutter,firebase,supabase,python,django,flask,tailwind,bootstrap,git,github,figma,azure" />
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,tailwind,bootstrap,figma" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,php,laravel,mongodb,mysql" />
+
+### Mobile, Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,azure,git,github,vscode" />
+
+### Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,r" />
+
+</div>
+
+---
+
+# 🎓 Academic Journey
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CPISM-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20Bootstrap%20%7C%20Git-0EA5E9?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DISM-PHP%20%7C%20Laravel%20%7C%20MySQL%20%7C%20XML-22C55E?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HDSE--I-TypeScript%20%7C%20Angular%20%7C%20C%23%20%7C%20SQL%20%7C%20ASP.NET%20Core-8B5CF6?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HDSE--II-Dart%20%7C%20Flutter%20%7C%20Firebase%20%7C%20Supabase%20%7C%20Azure-F59E0B?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ADSE--I-MongoDB%20%7C%20Express%20%7C%20React%20%7C%20Node%20%7C%20Tailwind-EF4444?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ADSE--II-Python%20%7C%20Django%20%7C%20Flask%20%7C%20R%20%7C%20Big%20Data-111827?style=for-the-badge"/>
 
 </div>
 
@@ -253,70 +167,63 @@ Python • Django • Flask • R Programming • Data Science • Big Data • 
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🏋️ FitTrack App</h3>
-<p align="center">
-MERN Stack fitness tracking application with workout, nutrition, progress, analytics, notifications, and dashboard modules.
-</p>
-</td>
+### 🏋️ FitTrack App  
+**MERN Stack Fitness Tracking Application**  
+Workout tracking • Nutrition tracking • Progress analytics • Dashboard • Notifications • Reports
 
-<td width="50%">
-<h3 align="center">🏫 Symphony Institute</h3>
-<p align="center">
-Institute management application developed using Angular and ASP.NET Core.
-</p>
-</td>
-</tr>
+<br>
 
-<tr>
-<td width="50%">
-<h3 align="center">📚 E-Book Store</h3>
-<p align="center">
-Online book platform with buying, renting, audio books, article competitions, and home delivery features.
-</p>
-</td>
+### 🏫 Symphony Institute  
+**Angular + ASP.NET Core Institute Management System**  
+Modern institute management solution with real-world modules and clean architecture
 
-<td width="50%">
-<h3 align="center">💉 Vaccination System</h3>
-<p align="center">
-COVID-19 vaccination registration system built using Laravel and MySQL.
-</p>
-</td>
-</tr>
+<br>
 
-<tr>
-<td width="50%">
-<h3 align="center">🛍 Mujarrat Al-Nisa</h3>
-<p align="center">
-Online ladies clothing shop built for modern e-commerce needs.
-</p>
-</td>
+### 📚 E-Book Store  
+**Online Book Platform**  
+Book purchasing • Book renting • Audio books • Article competitions • Home delivery
 
-<td width="50%">
-<h3 align="center">🌐 Zentherix</h3>
-<p align="center">
-Premium software house website focused on modern web and mobile development services.
-</p>
-</td>
-</tr>
-</table>
+<br>
+
+### 💉 Vaccination Registration System  
+**Laravel + MySQL Application**  
+Patient registration • Vaccine verification • Admin panel • User panel
+
+<br>
+
+### 🌐 Zentherix  
+**Premium Software House Website**  
+Modern business website for web, mobile, and full-stack development services
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alnajamulshariq&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=alnajamulshariq&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=alnajamulshariq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=alnajamulshariq&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnajamulshariq&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alnajamulshariq&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=ffffff"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=alnajamulshariq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alnajamulshariq&theme=tokyo-night&hide_border=true&bg_color=020617&color=38bdf8&line=0ea5e9&point=ffffff&area=true"/>
 
 </div>
 
@@ -327,26 +234,19 @@ Premium software house website focused on modern web and mobile development serv
 <div align="center">
 
 <a href="https://linkedin.com/in/2ansari">
-<img src="https://img.icons8.com/fluency/96/linkedin.png" width="60"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:mschariquen@gmail.com">
-<img src="https://img.icons8.com/fluency/96/gmail.png" width="60"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://shariq-najam.netlify.app">
-<img src="https://img.icons8.com/fluency/96/domain.png" width="60"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 <a href="https://www.zentherix.com">
-<img src="https://img.icons8.com/fluency/96/web.png" width="60"/>
+  <img src="https://img.shields.io/badge/Zentherix-Software%20House-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 ### 💡 “Building scalable digital solutions with clean code, modern design, and continuous learning.”
 
@@ -355,5 +255,7 @@ Premium software house website focused on modern web and mobile development serv
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0ea5e9&height=130&section=footer"/>
+
 </div>
