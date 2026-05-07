@@ -275,7 +275,38 @@ Python • Django • Flask • R Programming • Data Science • Big Data • 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,nodejs,express,mongodb,mysql,php,laravel,dotnet,cs,dart,flutter,firebase,supabase,python,django,flask,tailwind,bootstrap,git,github,figma,azure" />
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,tailwind,bootstrap,figma" />
+
+<br><br>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,php,laravel,mongodb,mysql,postgres" />
+
+<br><br>
+
+### Mobile Development
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase" />
+
+<br><br>
+
+### Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,docker,git,github,githubactions" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<br><br>
+
+### Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,r" />
 
 </div>
 
