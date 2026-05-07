@@ -5,9 +5,11 @@
 ### 🚀 Full Stack & Mobile App Developer  
 *MERN • MEAN • .NET • Flutter*
 
+### 🏆 ADSE-I 5th Semester Topper | 2x Project of the Month — Aptech
+
 <img src="https://komarev.com/ghpvc/?username=alnajamulshariq&label=Profile%20Views&color=00c9ff&style=for-the-badge"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%2B+.NET+Specialist;MERN+Stack+Developer;Flutter+App+Builder;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;ADSE-I+5th+Semester+Topper;Angular+%2B+.NET+Specialist;MERN+Stack+Developer;Flutter+App+Builder;Always+Learning+New+Technologies" />
 
 <br>
 
@@ -16,6 +18,9 @@
 </a>
 <a href="mailto:mschariquen@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/share/p/1HAejSd2qQ/">
+  <img src="https://img.shields.io/badge/Official%20Achievement-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </div>
@@ -39,7 +44,10 @@
 - Real-world project experience  
 - Continuous learning mindset  
 
-🏆 2x Project of the Month — Aptech  
+🏆 Achievements:
+- **ADSE-I 5th Semester Topper — Aptech Metro Star Gate**
+- **2x Project of the Month — Aptech**
+- Distinction holder in software engineering semesters
 
 ⚡ Exploring:
 Python • AI/ML • Data Science • Big Data  
@@ -47,6 +55,36 @@ Python • AI/ML • Data Science • Big Data
 ☕ *Coding + Chai = Productivity Boost*
 
 <br clear="right"/>
+
+---
+
+# 🏆 Achievements & Milestones
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>🥇 ADSE-I 5th Semester Topper</h3>
+<p>Recognized for outstanding academic performance in ADSE-I at Aptech Metro Star Gate.</p>
+<a href="https://www.facebook.com/share/p/1HAejSd2qQ/">
+<img src="https://img.shields.io/badge/View%20Official%20Post-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<br><br>
+<a href="https://www.instagram.com/p/DX_d_AhCCFL/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
+<img src="https://img.shields.io/badge/View%20Official%20Post-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</td>
+
+<td width="50%" align="center">
+<h3>🏆 2x Project of the Month</h3>
+<p>Awarded for building real-world software projects using modern web technologies.</p>
+<img src="https://img.shields.io/badge/Aptech-Project%20of%20the%20Month-00C9FF?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -89,6 +127,14 @@ Python • AI/ML • Data Science • Big Data
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" />
 </p>
+
+<div align="center">
+
+### 🥇 5th Semester Topper — Aptech Metro Star Gate
+
+<img src="https://img.shields.io/badge/Academic%20Achievement-ADSE--I%205th%20Semester%20Topper-00C9FF?style=for-the-badge"/>
+
+</div>
 
 ---
 
