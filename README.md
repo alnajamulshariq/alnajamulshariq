@@ -396,7 +396,7 @@ Premium software house website focused on modern web and mobile development serv
 
 <div align="center">
 
-<a href="https://linkedin.com/in/2ansari">
+<a href="https://linkedin.com/in/shariq-najam-dev">
 <img src="https://img.icons8.com/fluency/96/linkedin.png" width="60"/>
 </a>
 
