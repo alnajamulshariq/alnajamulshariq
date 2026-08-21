@@ -404,7 +404,7 @@ Premium software house website focused on modern web and mobile development serv
 <img src="https://img.icons8.com/fluency/96/gmail.png" width="60"/>
 </a>
 
-<a href="https://shariq-najam.netlify.app">
+<a href="https://shariq-najam.vercel.app">
 <img src="https://img.icons8.com/fluency/96/domain.png" width="60"/>
 </a>
 
