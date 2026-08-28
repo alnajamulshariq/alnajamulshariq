@@ -2,6 +2,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f2027,100:00c9ff&height=120&section=header" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alnajamulshariq/alnajamulshariq/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alnajamulshariq/alnajamulshariq/main/light.svg">
+  <img
+    src="https://raw.githubusercontent.com/alnajamulshariq/alnajamulshariq/main/dark.svg"
+    alt="Shariq Najam — Animated Developer Profile Banner"
+    width="100%"
+  />
+</picture>
+
+<br>
+
 <h1>⚡ Shariq Najam ⚡</h1>
 
 <h3>🚀 Full Stack & Mobile App Developer</h3>
@@ -37,44 +49,54 @@
 
 </div>
 
----
-
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🧠 About Me
+🧠 About Me
 
-🚀 Passionate **Full Stack & Mobile App Developer** with hands-on experience in building real-world web and mobile applications.
+🚀 Passionate Full Stack & Mobile App Developer with hands-on experience in building real-world web and mobile applications.
 
-💻 **Tech Focus:**
-- MERN Stack Development  
-- MEAN Stack Development  
-- Angular & ASP.NET Core  
-- Flutter Mobile Apps  
-- Modern UI/UX & Scalable Architecture  
+💻 Tech Focus:
 
-🎯 **Strengths:**
-- Problem solving  
-- Clean and scalable code  
-- Real-world project experience  
-- Team collaboration  
-- Continuous learning mindset  
+MERN Stack Development
 
-🏆 **Achievements:**
-- 🥇 **ADSE-I Exam Topper — Aptech Metro Star Gate**
-- 🏆 **Project of the Month — ADSE-I**
-- 🏆 **Project of the Month — HDSE-I**
-- 🎖 Distinction holder in software engineering semesters  
+MEAN Stack Development
 
-⚡ **Currently Exploring:**
-Python • AI/ML • Data Science • Big Data • Django • Flask  
+Angular & ASP.NET Core
 
-☕ *Coding + Chai = Productivity Boost*
+Flutter Mobile Apps
+
+Modern UI/UX & Scalable Architecture
+
+🎯 Strengths:
+
+Problem solving
+
+Clean and scalable code
+
+Real-world project experience
+
+Team collaboration
+
+Continuous learning mindset
+
+🏆 Achievements:
+
+🥇 ADSE-I Exam Topper — Aptech Metro Star Gate
+
+🏆 Project of the Month — ADSE-I
+
+🏆 Project of the Month — HDSE-I
+
+🎖 Distinction holder in software engineering semesters
+
+⚡ Currently Exploring:
+Python • AI/ML • Data Science • Big Data • Django • Flask
+
+☕ Coding + Chai = Productivity Boost
 
 <br clear="right"/>
 
----
-
-# 🏆 Achievements & Official Links
+🏆 Achievements & Official Links
 
 <div align="center">
 
@@ -155,11 +177,9 @@ Python • AI/ML • Data Science • Big Data • Django • Flask
 
 </div>
 
----
+🎓 Academic Journey
 
-# 🎓 Academic Journey
-
-## 🟢 CPISM — *Certificate of Proficiency in Information Systems Management*
+🟢 CPISM — Certificate of Proficiency in Information Systems Management
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
@@ -169,9 +189,7 @@ Python • AI/ML • Data Science • Big Data • Django • Flask
 HTML • CSS • JavaScript • Bootstrap • jQuery • Git • GitHub • SEO
 </p>
 
----
-
-## 🔵 DISM — *Diploma in Information Systems Management*
+🔵 DISM — Diploma in Information Systems Management
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
@@ -181,9 +199,7 @@ HTML • CSS • JavaScript • Bootstrap • jQuery • Git • GitHub • SEO
 PHP • Laravel • MySQL • XML • Database Management
 </p>
 
----
-
-## 🟣 HDSE-I — *Higher Diploma in Software Engineering — Part I*
+🟣 HDSE-I — Higher Diploma in Software Engineering — Part I
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=ts,angular,dotnet,cs" />
@@ -208,9 +224,7 @@ TypeScript • Angular • C# • SQL • ASP.NET Core
 
 </div>
 
----
-
-## 🟡 HDSE-II — *Higher Diploma in Software Engineering — Part II*
+🟡 HDSE-II — Higher Diploma in Software Engineering — Part II
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,azure" />
@@ -220,9 +234,7 @@ TypeScript • Angular • C# • SQL • ASP.NET Core
 Dart • Flutter • Firebase • Supabase • Microsoft Azure • Agile & DevOps
 </p>
 
----
-
-## 🔴 ADSE-I — *Advanced Diploma in Software Engineering — Part I*
+🔴 ADSE-I — Advanced Diploma in Software Engineering — Part I
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" />
@@ -257,9 +269,7 @@ MongoDB • Express.js • React.js • Node.js • Tailwind CSS • shadcn/ui
 
 </div>
 
----
-
-## ⚫ ADSE-II — *Advanced Diploma in Software Engineering — Part II*
+⚫ ADSE-II — Advanced Diploma in Software Engineering — Part II
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask,r" />
@@ -269,31 +279,29 @@ MongoDB • Express.js • React.js • Node.js • Tailwind CSS • shadcn/ui
 Python • Django • Flask • R Programming • Data Science • Big Data • Hadoop • Spark • Tableau
 </p>
 
----
-
-# 🛠 Tech Stack
+🛠 Tech Stack
 
 <div align="center">
 
-### Frontend Development
+Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,tailwind,bootstrap,figma" />
 
 <br><br>
 
-### Backend & Database
+Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,php,laravel,mongodb,mysql,postgres" />
 
 <br><br>
 
-### Mobile Development
+Mobile Development
 
 <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase" />
 
 <br><br>
 
-### Cloud & Infrastructure
+Cloud & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,git,github,githubactions" />
 
@@ -304,15 +312,13 @@ Python • Django • Flask • R Programming • Data Science • Big Data • 
 
 <br><br>
 
-### Currently Exploring
+Currently Exploring
 
 <img src="https://skillicons.dev/icons?i=python,django,flask,r" />
 
 </div>
 
----
-
-# 🚀 Featured Projects
+🚀 Featured Projects
 
 <div align="center">
 
@@ -368,9 +374,7 @@ Premium software house website focused on modern web and mobile development serv
 
 </div>
 
----
-
-# 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
 
@@ -390,9 +394,7 @@ Premium software house website focused on modern web and mobile development serv
 
 </div>
 
----
-
-# 🌐 Connect With Me
+🌐 Connect With Me
 
 <div align="center">
 
@@ -418,11 +420,9 @@ Premium software house website focused on modern web and mobile development serv
 
 <div align="center">
 
-### 💡 “Building scalable digital solutions with clean code, modern design, and continuous learning.”
+💡 “Building scalable digital solutions with clean code, modern design, and continuous learning.”
 
 </div>
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f2027,100:00c9ff&height=130&section=footer"/>
