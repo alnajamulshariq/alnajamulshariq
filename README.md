@@ -21,7 +21,7 @@
   <b>MERN</b> • <b>MEAN</b> • <b>.NET</b> • <b>Flutter</b>
 </p>
 
-<h3>🥇 ADSE-I Exam Topper | 🏆 2x Project of the Month — Aptech</h3>
+<h3>🥇 2x Exam Topper | 🏆 2x Project of the Month — Aptech</h3>
 
 <img src="https://komarev.com/ghpvc/?username=alnajamulshariq&label=Profile%20Views&color=00c9ff&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Founder-Zentherix-00C9FF?style=for-the-badge"/>
@@ -29,7 +29,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;ADSE-I+Exam+Topper;2x+Project+of+the+Month+Winner;Angular+%2B+.NET+Specialist;MERN+Stack+Developer;Flutter+App+Builder;Founder+of+Zentherix;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;2x+Exam+Topper;2x+Project+of+the+Month+Winner;Angular+%2B+.NET+Specialist;MERN+Stack+Developer;Flutter+App+Builder;Founder+of+Zentherix;Always+Learning+New+Technologies" />
 
 <br><br>
 
@@ -82,6 +82,8 @@ Continuous learning mindset
 
 🥇 ADSE-I Exam Topper — Aptech Metro Star Gate
 
+🥇 ADSE-II Exam Topper — Aptech Metro Star Gate
+
 🏆 Project of the Month — ADSE-I
 
 🏆 Project of the Month — HDSE-I
@@ -105,7 +107,7 @@ Python • AI/ML • Data Science • Big Data • Django • Flask
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 <h3>🥇 Exam Topper</h3>
 
@@ -126,7 +128,33 @@ Python • AI/ML • Data Science • Big Data • Django • Flask
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%" align="center">
+
+<h3>🥇 Exam Topper</h3>
+
+<img src="https://img.shields.io/badge/ADSE--II-Academic%20Excellence-00C9FF?style=for-the-badge"/>
+
+<br>
+
+<sub>Recognized as ADSE-II Exam Topper for August 2026 at Aptech Metro Star Gate.</sub>
+
+<br><br>
+
+<a href="https://www.facebook.com/photo?fbid=1396481292631438&set=a.1204126478533588">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/p/Dc59NTjiIht/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/posts/aptech-metro-stargate_examchampion-toppergoals-aptech-activity-7501978661315567617-q083?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGLNEDsBACXOYoCVSk8OcZDvix0SXV_r3r4">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
 
 <h3>🏆 Project of the Month</h3>
 
@@ -147,7 +175,7 @@ Python • AI/ML • Data Science • Big Data • Django • Flask
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 <h3>🏆 Project of the Month</h3>
 
@@ -277,6 +305,24 @@ MongoDB • Express.js • React.js • Node.js • Tailwind CSS • shadcn/ui
 <p align="center">
 Python • Django • Flask • R Programming • Data Science • Big Data • Hadoop • Spark • Tableau
 </p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Achievement-ADSE--II%20Exam%20Topper-00C9FF?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://www.facebook.com/photo?fbid=1396481292631438&set=a.1204126478533588">
+<img src="https://img.shields.io/badge/Exam%20Topper-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/p/Dc59NTjiIht/">
+<img src="https://img.shields.io/badge/Exam%20Topper-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/posts/aptech-metro-stargate_examchampion-toppergoals-aptech-activity-7501978661315567617-q083?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGLNEDsBACXOYoCVSk8OcZDvix0SXV_r3r4">
+<img src="https://img.shields.io/badge/Exam%20Topper-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 🛠 Tech Stack
 
