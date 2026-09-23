@@ -33,7 +33,7 @@
 
 <br><br>
 
-<a href="https://shariq-najam.vercel.app">
+<a href="https://shariqnajam.com">
   <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.zentherix.com">
@@ -451,7 +451,7 @@ Premium software house website focused on modern web and mobile development serv
 <img src="https://img.icons8.com/fluency/96/gmail.png" width="60"/>
 </a>
 
-<a href="https://shariq-najam.vercel.app">
+<a href="https://shariqnajam.com">
 <img src="https://img.icons8.com/fluency/96/domain.png" width="60"/>
 </a>
 
